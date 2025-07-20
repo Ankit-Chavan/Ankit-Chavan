@@ -1,11 +1,6 @@
-```markdown
-# Hi there, I'm Ankit Chavan! 👋
+ Hi there, I'm Ankit Chavan! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;5%2B+Years+of+Experience;Banking+%7C+Fintech+%7C+Enterprise+Systems;Java+%7C+Python+%7C+React+%7C+AWS" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
+ 🚀 About Me
 
 🎓 **Recent Graduate** - Master's in Information Technology & Management from UT Dallas (May 2025)  
 💼 **Current Role** - Web Development Specialist at UT Dallas, managing enterprise applications for 3,500+ users  
